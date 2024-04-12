@@ -22,6 +22,7 @@ Built using Tkinter
 - Multiple rounds of gameplay
 - Score counter for both players across multiple rounds
 - Reset button to reset scores back to 0 and start a new game, instead of closing the application
+- Works offline without the need of Internet connection
 
 ## Screenshots 💻
 ![image](https://github.com/reshmaharidhas/Tic-Tac-Toe/assets/37250413/8861b32d-d936-4ad2-92ba-27a6521a8078)
@@ -29,6 +30,17 @@ Built using Tkinter
 ![image](https://github.com/reshmaharidhas/Tic-Tac-Toe/assets/37250413/e4e92ae6-a8bc-4e75-95b0-1e5c0823c049)
 ![image](https://github.com/reshmaharidhas/Tic-Tac-Toe/assets/37250413/f7ea1b0f-d8b3-469c-b847-d85eab0ad514)
 
+## Installation 🔌
+```bash
+  $ git clone https://github.com/reshmaharidhas/Tic-Tac-Toe
+```
+```bash
+  $ cd Tic-Tac-Toe/.venv/Scripts
+```
+## Run the Game 🎮
+```bash
+$ python3 tictactoe.py
+```
 
 ## License
-This project is licensed under the MIT License..
+This project is licensed under the MIT License.
