@@ -30,6 +30,10 @@ Built using Tkinter
 ![image](https://github.com/reshmaharidhas/Tic-Tac-Toe/assets/37250413/e4e92ae6-a8bc-4e75-95b0-1e5c0823c049)
 ![image](https://github.com/reshmaharidhas/Tic-Tac-Toe/assets/37250413/f7ea1b0f-d8b3-469c-b847-d85eab0ad514)
 
+## Demo 💻🎮
+![Tic Tac Toe preview](https://github.com/reshmaharidhas/Tic-Tac-Toe/assets/37250413/80010982-9c97-4738-863d-6d3a873e24d4)
+
+
 ## Installation 🔌
 ```bash
   $ git clone https://github.com/reshmaharidhas/Tic-Tac-Toe
