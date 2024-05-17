@@ -3,6 +3,7 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FTic-Tac-Toe&labelColor=%23000000&countColor=%2300ff00&style=plastic"/>
   <img src="https://img.shields.io/github/repo-size/reshmaharidhas/Tic-Tac-Toe"/>
   <img src="https://img.shields.io/github/languages/top/reshmaharidhas/Tic-Tac-Toe"/>
+  <img src="https://img.shields.io/github/downloads/reshmaharidhas/Tic-Tac-Toe/total?labelColor=%23000000&color=%230000FF"/>
   <img src="https://img.shields.io/github/license/reshmaharidhas/Tic-Tac-Toe?labelColor=%23000000&color=%2300FF00"/>
 
 </p>
